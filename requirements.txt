@@ -1,0 +1,9 @@
+async-timeout==3.0.1
+beautifulsoup4==4.9.3
+discord.py==1.7.3
+googlesearch-python==1.1.0
+pypi==2.1
+python-dotenv==0.19.2
+requests==2.25.1
+textblob==0.17.1
+textblob-fr==0.2.0
